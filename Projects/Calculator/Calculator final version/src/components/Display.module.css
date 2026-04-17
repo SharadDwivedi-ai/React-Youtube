@@ -1,0 +1,8 @@
+.inputText {
+  margin: 25px 8px;
+  width: 18rem;
+  font-size: 40px;
+  background: rgb(30, 30, 30);
+  border: 1px solid rgb(231, 197, 134);
+  color: white;
+}

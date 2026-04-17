@@ -1,0 +1,10 @@
+.calculator{
+    background: black;
+    border: 2px solid rgb(225, 159, 28);
+    border-radius: 10px;
+    width: 20rem;
+    padding-left: 20px;
+    color: white;
+    box-shadow: 10px;
+}
+
